@@ -66,4 +66,8 @@ public class ProductController {
         product.setPrice(productDto.getPrice());
         return product;
     }
+
+    private void print(){
+        
+    }
 }
